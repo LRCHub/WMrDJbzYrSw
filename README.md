@@ -1,0 +1,72 @@
+# 秋山黄色 – INSOMNIA
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+BLUEな舌　ステータス捨て
+でマシになる夜
+君と同じ目元になりたいぜ
+午前2時・薬飲み忘れ・30分過ぎ
+愛してるとパキシルとバイキルト
+三点Incentive
+Todayも元気に鬱病だ
+病んだまま立ちたい武道館
+君と同じ目元になりたいぜ
+理解はされないよ
+ああ君はきっと泣き喚く
+代わりに踊ったとか
+TAP to TAP to DANCE
+Viva TAP to DANCE
+SOSすら気を使っちゃうね
+顔も知らん誰かに
+TAP to TAP to DANCE
+Viva TAP to DANCE
+部屋から渡れる　唯一の交差点
+指先が見つめて眠れないよ
+静かな分気づくQ
+傷付くリズムはSSR
+夜に生きる全てのINSOMNIA
+いいよ寝なくて　昼夜逆転
+気も触れず　死への列
+PROGRESS
+うとうとする
+地獄絵図
+Sheep Sheep Sheep
+Sheep Sheep Sheep
+無事SNS STAY 視察して
+案の定惑い
+人より長い夜の雨宿り
+予約投稿に遺書を残す最近の流行り
+「生き死に」って倫理を盾に
+本人の好きにとか言っちゃうガキ
+どうやっても目が合ってしまうよ
+飲み干され捨てられたもんが
+薬の形をした心たちが
+理解してくれなんて言えないから
+踊りの代わりに泣いたのさ
+TAP to TAP to DANCE
+Viva TAP to DANCE
+LEDに心　繋げて
+祈れINSOMNIA
+TAP to TAP to DANCE
+Viva TAP to DANCE
+理解などないことくらい
+共感したいの
+生きれないくらい
+仄暗い闇は少しの光を
+見つけるためだと思えば思うほど
+TAP to TAP to DANCE
+Viva TAP to DANCE
+どうせ死んでいくんだけど
+どうせ生まれてきたんだぜ
+TAP to TAP to DANCE
+Viva TAP to DANCE
+勝手にしろ　勝手にしろ
+俺もそうするよ
+グダグダと管を巻いて
+どうせなら悲しい歌も全部開いて
+君に分かる歌詞なんだ
+SNS Stage
+「分かっていたい」が
+踊ってたみたいだ
+```
