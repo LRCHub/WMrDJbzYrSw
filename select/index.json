@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "INSOMNIA",
+  "base_artist": "秋山黄色",
+  "createdAt": "2026-03-12T22:52:14.077848Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "INSOMNIA",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": false,
+      "path": "select/01_INSOMNIA_Yellow_Magic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Insomnia",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/02_Insomnia_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hypnotize Me (insomnia mix)",
+      "artist": "Wang Chung",
+      "has_synced": false,
+      "path": "select/03_Hypnotize_Me_(insomnia_mix)_Wang_Chung.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Insomnia",
+      "artist": "Caroline Polachek",
+      "has_synced": true,
+      "path": "select/04_Insomnia_Caroline_Polachek.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Insomnia (instrumental)",
+      "artist": "Caroline Polachek",
+      "has_synced": true,
+      "path": "select/05_Insomnia_(instrumental)_Caroline_Polachek.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Insomnia",
+      "artist": "Electric President",
+      "has_synced": false,
+      "path": "select/06_Insomnia_Electric_President.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Insomnia (live)",
+      "artist": "Enter Shikari",
+      "has_synced": false,
+      "path": "select/07_Insomnia_(live)_Enter_Shikari.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Insomnia",
+      "artist": "Enter Shikari",
+      "has_synced": false,
+      "path": "select/08_Insomnia_Enter_Shikari.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Insomnia - Live @ Brixton Academy",
+      "artist": "Enter Shikari",
+      "has_synced": false,
+      "path": "select/09_Insomnia_-_Live_@_Brixton_Academy_Enter_Shikari.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Insomnia",
+      "artist": "Before the Dawn",
+      "has_synced": true,
+      "path": "select/10_Insomnia_Before_the_Dawn.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chemical Insomnia",
+      "artist": "Epica",
+      "has_synced": false,
+      "path": "select/11_Chemical_Insomnia_Epica.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Insomnia",
+      "artist": "Kamelot",
+      "has_synced": true,
+      "path": "select/12_Insomnia_Kamelot.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Insomnia",
+      "artist": "Semblant",
+      "has_synced": true,
+      "path": "select/13_Insomnia_Semblant.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Insomnia – Instrumental",
+      "artist": "Kamelot",
+      "has_synced": true,
+      "path": "select/14_Insomnia_–_Instrumental_Kamelot.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Insomnia - Instrumental",
+      "artist": "Kamelot",
+      "has_synced": true,
+      "path": "select/15_Insomnia_-_Instrumental_Kamelot.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "INSOMNIA",
+      "artist": "秋山黄色",
+      "has_synced": false,
+      "path": "select/pl_01_INSOMNIA_秋山黄色.txt"
+    }
+  ]
+}
